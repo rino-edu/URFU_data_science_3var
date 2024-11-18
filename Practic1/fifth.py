@@ -32,7 +32,7 @@ for row in table.find_all('tr')[1:]:
 
 df = pd.DataFrame(rows, columns=headers)
 
-output_file = 'extracted_table.csv'
+output_file = '5_result.csv'
 df.to_csv(output_file, index=False, encoding='utf-8')
 
 print(f"Данные из HTML-таблицы успешно сохранены в '{output_file}'.")

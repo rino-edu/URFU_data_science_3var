@@ -43,13 +43,13 @@ else:
     exit()
 
 
-results_file = 'results.txt'
+results_file = '4.1_result.txt'
 with open(results_file, 'w', encoding='utf-8') as file:
     file.write(f"{mean_price}\n")
     file.write(f"{max_quantity}\n")
     file.write(f"{min_price}")
 
-output_file = 'modified_fourth_task.csv'
+output_file = '4.2_result.csv'
 df_filtered.to_csv(output_file, index=False)
 
 print(f"Результаты вычислений сохранены в '{results_file}'.")

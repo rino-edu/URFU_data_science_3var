@@ -26,7 +26,7 @@ word_counts = Counter(words)
 
 
 # Сохранение в файл
-output_file = 'word_frequency.txt'
+output_file = '1.1_result.txt'
 with open(output_file, 'w', encoding='utf-8') as output_file:
     for word, freq in word_counts.items():
         output_file.write(f"{word}:{freq}\n")
@@ -37,7 +37,7 @@ short_words = [word for word in words if 1 <= len(word) <= 5]
 short_word_count = len(short_words)
 short_word_ratio = short_word_count / total_words
 
-stats_file = 'short_word_stats.txt'
+stats_file = '1.2_result.txt'
 with open(stats_file, 'w', encoding='utf-8') as stats_file:
     stats_file.write(f"Число коротких слов: {short_word_count}\n")
     stats_file.write(f"Доля коротких слов: {short_word_ratio:.2%}\n")

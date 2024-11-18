@@ -26,7 +26,7 @@ sums = [process_line(line) for line in lines]
 sorted_sums = sorted(sums, reverse=True)
 top_10_sums = sorted_sums[:10]
 
-output_file = 'top_sums.txt'
+output_file = '2_result.txt'
 
 with open(output_file, 'w', encoding='utf-8') as file:
     for top_sum in top_10_sums:

@@ -47,7 +47,7 @@ for line in lines:
 
     result_sums.append(line_sum)
 
-output_file = 'filtered_sums.txt'
+output_file = '3_result.txt'
 
 with open(output_file, 'w', encoding='utf-8') as file:
     for line_sum in result_sums:

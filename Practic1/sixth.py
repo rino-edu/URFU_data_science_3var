@@ -76,7 +76,7 @@ def main():
     if vacancies:
         html_content = generate_html(vacancies)
         if html_content:
-            save_html(html_content, 'vacancies.html')
+            save_html(html_content, '6_result.html')
 
 if __name__ == "__main__":
     main()
