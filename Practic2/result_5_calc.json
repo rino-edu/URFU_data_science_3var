@@ -1,0 +1,65 @@
+{
+    "numerical_stats": {
+        "score": {
+            "max": 9.1,
+            "min": 1.85,
+            "mean": 6.4184697819314644,
+            "sum": 103016.44,
+            "std_dev": 0.8993046454214528
+        },
+        "scored_by": {
+            "max": 2685033,
+            "min": 0,
+            "mean": 19153.52103261957,
+            "sum": 478550723,
+            "std_dev": 94867.0399730155
+        },
+        "episodes": {
+            "max": 3057.0,
+            "min": 1.0,
+            "mean": 14.877485882641787,
+            "sum": 363576.0,
+            "std_dev": 48.44762501371728
+        },
+        "members": {
+            "max": 3779820,
+            "min": 0,
+            "mean": 37584.10102061237,
+            "sum": 939038764,
+            "std_dev": 158363.5259804401
+        }
+    },
+    "text_stats": {
+        "source": {
+            "original": 9732,
+            "manga": 4715,
+            "game": 1229,
+            "visual_novel": 1113,
+            "other": 1018,
+            "light_novel": 993,
+            "novel": 711,
+            "web_manga": 451,
+            "music": 379,
+            "4_koma_manga": 316,
+            "picture_book": 211,
+            "mixed_media": 197,
+            "book": 194,
+            "web_novel": 83,
+            "card_game": 68,
+            "radio": 14
+        },
+        "type": {
+            "tv": 7632,
+            "movie": 4389,
+            "ova": 4072,
+            "ona": 3523,
+            "music": 2772,
+            "special": 2539
+        },
+        "status": {
+            "finished_airing": 24223,
+            "not_yet_aired": 422,
+            "currently_airing": 340
+        }
+    }
+}
