@@ -13,7 +13,7 @@ def parse_book(file_path):
     item["author"] = soup.find_all("p", {"class": "author-p"})[0].get_text(strip=True) if soup.find_all("p", {"class": "author-p"}) else None
 
     category = soup.find("span", string=lambda x: x and "Категория:" in x)
-    item["category"] = category.get_text().split(":")[1].strip() if category else None
+    item["category"] = category.get_text(strip=True).replace("Категория:", "").strip() if category else None
 
     pages = soup.find("span", {"class": "pages"})
     item["pages"] = int(pages.get_text().split(":")[1].split()[0]) if pages else None
