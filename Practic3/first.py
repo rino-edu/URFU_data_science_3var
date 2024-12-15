@@ -91,4 +91,4 @@ category_frequency = {cat: categories.count(cat) for cat in set(categories)}
 with open(output_frequency, "w", encoding="utf-8") as file:
     json.dump(category_frequency, file, ensure_ascii=False, indent=4)
 
-print("Задание выполнено. Результаты сохранены в файлы.")
+print("Результаты сохранены в файлы 1_...")

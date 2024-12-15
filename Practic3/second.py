@@ -7,12 +7,10 @@ from statistics import mean, stdev
 def parse_product(product):
     data = {}
 
-    # Парсинг изображения
     img = product.find("img")
     if img and "src" in img.attrs:
         data["image"] = img["src"]
 
-    # Парсинг характеристик из строки (size, brand, memory_size)
     details = product.find("span")
     if details:
         match = re.search(r'(\d+\.\d+)"\s(.+?)\s(\d+)GB', details.text.strip())
@@ -21,19 +19,16 @@ def parse_product(product):
             data["brand"] = match.group(2)
             data["memory_size"] = int(match.group(3))
 
-    # Парсинг цены
     price = product.find("price")
     if price:
         data["price"] = int(re.sub(r"[^\d]", "", price.text))
 
-    # Парсинг бонусов
     bonuses = product.find("strong")
     if bonuses:
         match = re.search(r"\d+", bonuses.text)
         if match:
             data["bonuses"] = int(match.group())
 
-    # Парсинг дополнительных характеристик
     for li in product.find_all("li"):
         type_attr = li.get("type")
         if type_attr:
@@ -56,7 +51,6 @@ def parse_product(product):
 
     return data
 
-# Функция для парсинга всех файлов в папке
 def parse_all_files(input_folder):
     all_products = []
 
@@ -74,15 +68,12 @@ def parse_all_files(input_folder):
 
     return all_products
 
-# Функция для сортировки записей по полю
 def sort_by_field(data, field):
     return sorted(data, key=lambda x: x.get(field, float("inf")))
 
-# Функция для фильтрации записей по полю
 def filter_by_field(data, field, threshold):
     return [item for item in data if field in item and item[field] > threshold]
 
-# Функция для расчета статистики числового поля
 def calculate_statistics(data, field):
     values = [item[field] for item in data if field in item]
     return {
@@ -93,7 +84,6 @@ def calculate_statistics(data, field):
         "stdev": stdev(values) if len(values) > 1 else 0
     }
 
-# Функция для подсчета частоты меток текстового поля
 def calculate_frequency(data, field):
     frequency = {}
     for item in data:
@@ -102,35 +92,31 @@ def calculate_frequency(data, field):
             frequency[value] = frequency.get(value, 0) + 1
     return frequency
 
-# Основная функция
-if __name__ == "__main__":
-    input_folder = "2"
+input_folder = "2"
 
-    # Парсинг данных
-    all_data = parse_all_files(input_folder)
+all_data = parse_all_files(input_folder)
 
-    # Сохранение всех данных
-    with open("2_result.json", "w", encoding="utf-8") as file:
-        json.dump(all_data, file, ensure_ascii=False, indent=4)
+with open("2_result.json", "w", encoding="utf-8") as file:
+    json.dump(all_data, file, ensure_ascii=False, indent=4)
 
-    # Сортировка по цене
-    sorted_data = sort_by_field(all_data, "price")
-    with open("2_sorted.json", "w", encoding="utf-8") as file:
-        json.dump(sorted_data, file, ensure_ascii=False, indent=4)
+# Сортировка по price
+sorted_data = sort_by_field(all_data, "price")
+with open("2_sorted.json", "w", encoding="utf-8") as file:
+    json.dump(sorted_data, file, ensure_ascii=False, indent=4)
 
-    # Фильтрация по memory_size > 100
-    filtered_data = filter_by_field(all_data, "memory_size", 100)
-    with open("2_filtered.json", "w", encoding="utf-8") as file:
-        json.dump(filtered_data, file, ensure_ascii=False, indent=4)
+# Фильтрация по memory_size > 100
+filtered_data = filter_by_field(all_data, "memory_size", 100)
+with open("2_filtered.json", "w", encoding="utf-8") as file:
+    json.dump(filtered_data, file, ensure_ascii=False, indent=4)
 
-    # Статистика для memory_size
-    statistics = calculate_statistics(all_data, "memory_size")
-    with open("2_stat.json", "w", encoding="utf-8") as file:
-        json.dump(statistics, file, ensure_ascii=False, indent=4)
+# Статистика для memory_size
+statistics = calculate_statistics(all_data, "memory_size")
+with open("2_stat.json", "w", encoding="utf-8") as file:
+    json.dump(statistics, file, ensure_ascii=False, indent=4)
 
-    # Частота меток для brand
-    frequency = calculate_frequency(all_data, "brand")
-    with open("2_frequency.json", "w", encoding="utf-8") as file:
-        json.dump(frequency, file, ensure_ascii=False, indent=4)
+# Частота меток для brand
+frequency = calculate_frequency(all_data, "brand")
+with open("2_frequency.json", "w", encoding="utf-8") as file:
+    json.dump(frequency, file, ensure_ascii=False, indent=4)
 
-    print("Задание выполнено. Результаты сохранены в файлы.")
+print("Результаты сохранены в файлы 2_...")
