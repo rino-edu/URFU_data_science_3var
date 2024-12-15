@@ -1,7 +1,7 @@
 import os
 import json
 from bs4 import BeautifulSoup
-from statistics import mean, stdev
+from collections import Counter
 
 def parse_star(path):
     with open(path, "r", encoding="utf-8") as file:
@@ -18,6 +18,16 @@ def parse_star(path):
     item['radius'] = int(item["radius"])
 
     return item
+
+def calculate_statistics(data, field):
+    values = [item[field] for item in data if field in item]
+    return {
+        "sum": sum(values),
+        "min": min(values),
+        "max": max(values),
+        "average": sum(values) / len(values) if values else 0,
+        "count": len(values),
+    }
 
 input_folder = "3"
 output_all_stars = "3_result.json"
@@ -44,21 +54,13 @@ with open(output_filtered, "w", encoding="utf-8") as file:
     json.dump(filtered_stars, file, ensure_ascii=False, indent=4)
 
 # Статистические характеристики для параметра "radius"
-radius = [star["radius"] for star in all_stars if star["radius"] is not None]
-radius_stats = {
-    "sum": sum(radius),
-    "min": min(radius),
-    "max": max(radius),
-    "mean": mean(radius),
-    "std_dev": stdev(radius) if len(radius) > 1 else 0,
-    "count": len(radius)
-}
+radius_stats = calculate_statistics(all_stars_sorted, "radius")
 with open(output_stats, "w", encoding="utf-8") as file:
     json.dump(radius_stats, file, ensure_ascii=False, indent=4)
 
 # Частота меток для созвездий
-constellations = [star["constellation"] for star in all_stars if star["constellation"]]
-constellation_frequency = {cat: constellations.count(cat) for cat in set(constellations)}
+constellations = [star["constellation"] for star in all_stars if "constellation" in star]
+constellation_frequency = Counter(constellations)
 with open(output_frequency, "w", encoding="utf-8") as file:
     json.dump(constellation_frequency, file, ensure_ascii=False, indent=4)
 
