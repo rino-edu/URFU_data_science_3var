@@ -81,7 +81,8 @@ def calculate_statistics(data, field):
         "min": min(values),
         "max": max(values),
         "mean": mean(values),
-        "stdev": stdev(values) if len(values) > 1 else 0
+        "std_dev": stdev(values) if len(values) > 1 else 0,
+        "count": len(values)
     }
 
 def calculate_frequency(data, field):
@@ -93,30 +94,31 @@ def calculate_frequency(data, field):
     return frequency
 
 input_folder = "2"
+output_all_products = "2_result.json"
+output_filtered = "2_filtered.json"
+output_stats = "2_stat.json"
+output_frequency = "2_frequency.json"
 
 all_data = parse_all_files(input_folder)
 
-with open("2_result.json", "w", encoding="utf-8") as file:
-    json.dump(all_data, file, ensure_ascii=False, indent=4)
-
 # Сортировка по price
 sorted_data = sort_by_field(all_data, "price")
-with open("2_sorted.json", "w", encoding="utf-8") as file:
+with open(output_all_products, "w", encoding="utf-8") as file:
     json.dump(sorted_data, file, ensure_ascii=False, indent=4)
 
 # Фильтрация по memory_size > 100
 filtered_data = filter_by_field(all_data, "memory_size", 100)
-with open("2_filtered.json", "w", encoding="utf-8") as file:
+with open(output_filtered, "w", encoding="utf-8") as file:
     json.dump(filtered_data, file, ensure_ascii=False, indent=4)
 
 # Статистика для memory_size
 statistics = calculate_statistics(all_data, "memory_size")
-with open("2_stat.json", "w", encoding="utf-8") as file:
+with open(output_stats, "w", encoding="utf-8") as file:
     json.dump(statistics, file, ensure_ascii=False, indent=4)
 
 # Частота меток для brand
 frequency = calculate_frequency(all_data, "brand")
-with open("2_frequency.json", "w", encoding="utf-8") as file:
+with open(output_frequency, "w", encoding="utf-8") as file:
     json.dump(frequency, file, ensure_ascii=False, indent=4)
 
 print("Результаты сохранены в файлы 2_...")
