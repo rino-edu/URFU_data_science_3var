@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Солнце 5807",
+        "constellation": "Стрелец",
+        "spectral-class": "X4Y",
+        "radius": 8386407,
+        "rotation": "480.41 days",
+        "age": "2.85 billion years",
+        "distance": "3720112.15 million km",
+        "absolute-magnitude": "7.73 million km"
+    },
+    {
+        "name": "Канопус 4340",
+        "constellation": "Стрелец",
+        "spectral-class": "O7O",
+        "radius": 14488511,
+        "rotation": "879.26 days",
+        "age": "3.77 billion years",
+        "distance": "3672524.15 million km",
+        "absolute-magnitude": "5.04 million km"
+    },
+    {
+        "name": "Альфа Центавра 9291",
+        "constellation": "Стрелец",
+        "spectral-class": "Y4V",
+        "radius": 144879042,
+        "rotation": "429.35 days",
+        "age": "5.04 billion years",
+        "distance": "7334600.52 million km",
+        "absolute-magnitude": "2.24 million km"
+    },
+    {
+        "name": "Полярная звезда 5768",
+        "constellation": "Стрелец",
+        "spectral-class": "P3C",
+        "radius": 210030911,
+        "rotation": "63.55 days",
+        "age": "5.52 billion years",
+        "distance": "6500617.25 million km",
+        "absolute-magnitude": "6.34 million km"
+    },
+    {
+        "name": "Солнце 2384",
+        "constellation": "Стрелец",
+        "spectral-class": "V8H",
+        "radius": 220207262,
+        "rotation": "812.24 days",
+        "age": "0.74 billion years",
+        "distance": "1871844.03 million km",
+        "absolute-magnitude": "3.21 million km"
+    },
+    {
+        "name": "Бетельгейзе 5504",
+        "constellation": "Стрелец",
+        "spectral-class": "L6B",
+        "radius": 231349475,
+        "rotation": "682.76 days",
+        "age": "4.27 billion years",
+        "distance": "1237530.32 million km",
+        "absolute-magnitude": "9.22 million km"
+    },
+    {
+        "name": "Солнце 7215",
+        "constellation": "Стрелец",
+        "spectral-class": "U9A",
+        "radius": 353057715,
+        "rotation": "508.12 days",
+        "age": "5.19 billion years",
+        "distance": "5399255.64 million km",
+        "absolute-magnitude": "7.54 million km"
+    },
+    {
+        "name": "Хадар 4362",
+        "constellation": "Стрелец",
+        "spectral-class": "C4D",
+        "radius": 370535312,
+        "rotation": "263.7 days",
+        "age": "3.34 billion years",
+        "distance": "1928534.44 million km",
+        "absolute-magnitude": "4.29 million km"
+    },
+    {
+        "name": "Бетельгейзе 4910",
+        "constellation": "Стрелец",
+        "spectral-class": "Z9S",
+        "radius": 467408042,
+        "rotation": "811.93 days",
+        "age": "0.92 billion years",
+        "distance": "9178425.56 million km",
+        "absolute-magnitude": "6.88 million km"
+    },
+    {
+        "name": "Альфа Центавра 7759",
+        "constellation": "Стрелец",
+        "spectral-class": "H8I",
+        "radius": 525136189,
+        "rotation": "732.29 days",
+        "age": "4.89 billion years",
+        "distance": "2165898.32 million km",
+        "absolute-magnitude": "2.25 million km"
+    },
+    {
+        "name": "Фомалхаут 5386",
+        "constellation": "Стрелец",
+        "spectral-class": "K4T",
+        "radius": 530847560,
+        "rotation": "410.15 days",
+        "age": "2.15 billion years",
+        "distance": "6394324.71 million km",
+        "absolute-magnitude": "6.94 million km"
+    },
+    {
+        "name": "Вега 9896",
+        "constellation": "Стрелец",
+        "spectral-class": "D5Z",
+        "radius": 563479408,
+        "rotation": "587.34 days",
+        "age": "2.46 billion years",
+        "distance": "5217494.97 million km",
+        "absolute-magnitude": "4.49 million km"
+    },
+    {
+        "name": "Акрукс 3429",
+        "constellation": "Стрелец",
+        "spectral-class": "R4U",
+        "radius": 576151609,
+        "rotation": "202.98 days",
+        "age": "4.74 billion years",
+        "distance": "878857.64 million km",
+        "absolute-magnitude": "3.82 million km"
+    },
+    {
+        "name": "Хадар 7044",
+        "constellation": "Стрелец",
+        "spectral-class": "B7Q",
+        "radius": 681243794,
+        "rotation": "976.56 days",
+        "age": "1.03 billion years",
+        "distance": "6209382.95 million km",
+        "absolute-magnitude": "4.89 million km"
+    },
+    {
+        "name": "Ригель 1221",
+        "constellation": "Стрелец",
+        "spectral-class": "I9F",
+        "radius": 696416044,
+        "rotation": "915.9 days",
+        "age": "3.69 billion years",
+        "distance": "8510760.68 million km",
+        "absolute-magnitude": "3.17 million km"
+    },
+    {
+        "name": "Солнце 1623",
+        "constellation": "Стрелец",
+        "spectral-class": "V8M",
+        "radius": 763086537,
+        "rotation": "427.99 days",
+        "age": "5.41 billion years",
+        "distance": "3413075.13 million km",
+        "absolute-magnitude": "2.93 million km"
+    },
+    {
+        "name": "Антарес 1508",
+        "constellation": "Стрелец",
+        "spectral-class": "Q5Y",
+        "radius": 767021099,
+        "rotation": "786.9 days",
+        "age": "2.53 billion years",
+        "distance": "3608013.38 million km",
+        "absolute-magnitude": "6.28 million km"
+    },
+    {
+        "name": "Фомальгаут 4504",
+        "constellation": "Стрелец",
+        "spectral-class": "T6N",
+        "radius": 846663504,
+        "rotation": "910.91 days",
+        "age": "5.78 billion years",
+        "distance": "1215494.13 million km",
+        "absolute-magnitude": "7.41 million km"
+    },
+    {
+        "name": "Антарес 1978",
+        "constellation": "Стрелец",
+        "spectral-class": "Q3Y",
+        "radius": 863914223,
+        "rotation": "168.73 days",
+        "age": "3.78 billion years",
+        "distance": "6299223.22 million km",
+        "absolute-magnitude": "1.56 million km"
+    },
+    {
+        "name": "Фомалхаут 1263",
+        "constellation": "Стрелец",
+        "spectral-class": "H0D",
+        "radius": 960117058,
+        "rotation": "960.05 days",
+        "age": "2.07 billion years",
+        "distance": "3036520.77 million km",
+        "absolute-magnitude": "4.26 million km"
+    }
+]
