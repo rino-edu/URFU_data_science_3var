@@ -51,8 +51,8 @@ def create_buildings_table(db):
 def insert_data(db, items):
     cursor = db.cursor()
     cursor.executemany("""
-        INSERT INTO buildings (id, name, street, city, zipcode, floors, year, parking, prob_price, views)
-        VALUES (:id, :name, :street, :city, :zipcode, :floors, :year, :parking, :prob_price, :views)
+        INSERT INTO buildings (name, street, city, zipcode, floors, year, parking, prob_price, views)
+        VALUES (:name, :street, :city, :zipcode, :floors, :year, :parking, :prob_price, :views)
     """, items)
     db.commit()
 
@@ -140,5 +140,5 @@ db = connect_to_db("first.db")
 # third = third_query(db)
 # save_results(third, "1_3.json")
 
-fourth = fourth_query(db)
-save_results(fourth, "1_4.json")
+# fourth = fourth_query(db)
+# save_results(fourth, "1_4.json")
