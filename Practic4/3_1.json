@@ -1,0 +1,119 @@
+[
+    {
+        "id": 141,
+        "artist": "Missy Elliott",
+        "song": "Hot Boyz",
+        "duration_ms": 215466,
+        "year": 1998,
+        "tempo": 81.125,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 23,
+        "artist": "Sisqo",
+        "song": "Thong Song",
+        "duration_ms": 253733,
+        "year": 1999,
+        "tempo": 121.549,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 78,
+        "artist": "Creed",
+        "song": "With Arms Wide Open",
+        "duration_ms": 274800,
+        "year": 1999,
+        "tempo": 138.852,
+        "genre": "pop, rock, metal"
+    },
+    {
+        "id": 108,
+        "artist": "Donell Jones",
+        "song": "Where I Wanna Be",
+        "duration_ms": 253626,
+        "year": 1999,
+        "tempo": 102.053,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 129,
+        "artist": "Destiny's Child",
+        "song": "Say My Name",
+        "duration_ms": 271333,
+        "year": 1999,
+        "tempo": 138.009,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 142,
+        "artist": "Eiffel 65",
+        "song": "Move Your Body - Gabry Ponte Original Radio Edit",
+        "duration_ms": 268863,
+        "year": 1999,
+        "tempo": 129.962,
+        "genre": "pop"
+    },
+    {
+        "id": 285,
+        "artist": "Santana",
+        "song": "Maria Maria (feat. The Product G&B)",
+        "duration_ms": 261973,
+        "year": 1999,
+        "tempo": 97.911,
+        "genre": "rock, blues, latin"
+    },
+    {
+        "id": 335,
+        "artist": "Sting",
+        "song": "Desert Rose",
+        "duration_ms": 285960,
+        "year": 1999,
+        "tempo": 111.989,
+        "genre": "rock, pop"
+    },
+    {
+        "id": 382,
+        "artist": "Dido",
+        "song": "Thank You",
+        "duration_ms": 218360,
+        "year": 1999,
+        "tempo": 79.984,
+        "genre": "pop"
+    },
+    {
+        "id": 408,
+        "artist": "Madison Avenue",
+        "song": "Don't Call Me Baby",
+        "duration_ms": 228140,
+        "year": 1999,
+        "tempo": 124.999,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 418,
+        "artist": "Enrique Iglesias",
+        "song": "Be With You",
+        "duration_ms": 219360,
+        "year": 1999,
+        "tempo": 121.996,
+        "genre": "pop, latin"
+    },
+    {
+        "id": 466,
+        "artist": "Red Hot Chili Peppers",
+        "song": "Otherside",
+        "duration_ms": 255373,
+        "year": 1999,
+        "tempo": 123.229,
+        "genre": "rock"
+    },
+    {
+        "id": 479,
+        "artist": "Gigi D'Agostino",
+        "song": "The Riddle",
+        "duration_ms": 285426,
+        "year": 1999,
+        "tempo": 127.002,
+        "genre": "pop"
+    }
+]

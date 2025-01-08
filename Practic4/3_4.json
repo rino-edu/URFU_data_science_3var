@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1894,
+        "artist": "Lil' Kim",
+        "song": "Magic Stick",
+        "duration_ms": 359973,
+        "year": 2019,
+        "tempo": 92.98,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1900,
+        "artist": "Anuel AA",
+        "song": "China",
+        "duration_ms": 301714,
+        "year": 2019,
+        "tempo": 105.027,
+        "genre": "latin"
+    },
+    {
+        "id": 443,
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "duration_ms": 312820,
+        "year": 2018,
+        "tempo": 155.008,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 504,
+        "artist": "Migos",
+        "song": "MotorSport",
+        "duration_ms": 303076,
+        "year": 2018,
+        "tempo": 137.996,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1217,
+        "artist": "Rae Sremmurd",
+        "song": "Powerglide (feat. Juicy J) - From SR3MM",
+        "duration_ms": 332300,
+        "year": 2018,
+        "tempo": 173.948,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1565,
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "duration_ms": 417920,
+        "year": 2018,
+        "tempo": 96.507,
+        "genre": "latin"
+    },
+    {
+        "id": 1828,
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "duration_ms": 312820,
+        "year": 2018,
+        "tempo": 155.008,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 30,
+        "artist": "Migos",
+        "song": "Bad and Boujee (feat. Lil Uzi Vert)",
+        "duration_ms": 343150,
+        "year": 2017,
+        "tempo": 127.079,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1130,
+        "artist": "Hugh Jackman",
+        "song": "The Greatest Show",
+        "duration_ms": 302146,
+        "year": 2017,
+        "tempo": 157.92,
+        "genre": "easy listening"
+    },
+    {
+        "id": 1368,
+        "artist": "Migos",
+        "song": "Slippery (feat. Gucci Mane)",
+        "duration_ms": 304041,
+        "year": 2017,
+        "tempo": 141.967,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 31,
+        "artist": "Future",
+        "song": "Low Life (feat. The Weeknd)",
+        "duration_ms": 313546,
+        "year": 2016,
+        "tempo": 143.961,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1288,
+        "artist": "Milky Chance",
+        "song": "Stolen Dance",
+        "duration_ms": 313684,
+        "year": 2014,
+        "tempo": 114.016,
+        "genre": "set()"
+    },
+    {
+        "id": 1505,
+        "artist": "Beyoncé",
+        "song": "Drunk in Love (feat. Jay-Z)",
+        "duration_ms": 323480,
+        "year": 2014,
+        "tempo": 140.03,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 368,
+        "artist": "Justin Timberlake",
+        "song": "Mirrors",
+        "duration_ms": 484146,
+        "year": 2013,
+        "tempo": 76.899,
+        "genre": "pop"
+    },
+    {
+        "id": 1493,
+        "artist": "Daft Punk",
+        "song": "Lose Yourself to Dance (feat. Pharrell Williams)",
+        "duration_ms": 353893,
+        "year": 2013,
+        "tempo": 100.163,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 1614,
+        "artist": "Ed Sheeran",
+        "song": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
+        "duration_ms": 300840,
+        "year": 2013,
+        "tempo": 152.037,
+        "genre": "pop"
+    },
+    {
+        "id": 1749,
+        "artist": "Justin Timberlake",
+        "song": "Suit & Tie (feat. Jay-Z)",
+        "duration_ms": 326280,
+        "year": 2013,
+        "tempo": 101.985,
+        "genre": "pop"
+    },
+    {
+        "id": 1961,
+        "artist": "JAY-Z",
+        "song": "Holy Grail",
+        "duration_ms": 338413,
+        "year": 2013,
+        "tempo": 145.082,
+        "genre": "hip hop"
+    }
+]
