@@ -1,0 +1,590 @@
+[
+    {
+        "_id": "American Double / Imperial Stout",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "4.348843416370107"
+    },
+    {
+        "_id": "English Barleywine",
+        "max_overall": "4.0",
+        "min_overall": "2.5",
+        "avg_overall": "4.2086330935251794"
+    },
+    {
+        "_id": "Keller Bier / Zwickel Bier",
+        "max_overall": "4.0",
+        "min_overall": "3.5",
+        "avg_overall": "4.203703703703703"
+    },
+    {
+        "_id": "Russian Imperial Stout",
+        "max_overall": "5.0",
+        "min_overall": "1.5",
+        "avg_overall": "4.160391288298265"
+    },
+    {
+        "_id": "Rye Beer",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "4.159316427783903"
+    },
+    {
+        "_id": "Munich Helles Lager",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "4.086890243902439"
+    },
+    {
+        "_id": "English Dark Mild Ale",
+        "max_overall": "5.0",
+        "min_overall": "2.0",
+        "avg_overall": "4.064516129032258"
+    },
+    {
+        "_id": "Baltic Porter",
+        "max_overall": "5.0",
+        "min_overall": "1.5",
+        "avg_overall": "4.063953488372093"
+    },
+    {
+        "_id": "American IPA",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "4.0261371350984385"
+    },
+    {
+        "_id": "American Porter",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "4.023478260869565"
+    },
+    {
+        "_id": "Roggenbier",
+        "max_overall": "4.0",
+        "min_overall": "4.0",
+        "avg_overall": "4.0"
+    },
+    {
+        "_id": "American Wild Ale",
+        "max_overall": "5.0",
+        "min_overall": "2.0",
+        "avg_overall": "3.980769230769231"
+    },
+    {
+        "_id": "Belgian Strong Pale Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.9652448657187995"
+    },
+    {
+        "_id": "Chile Beer",
+        "max_overall": "4.5",
+        "min_overall": "3.5",
+        "avg_overall": "3.9545454545454546"
+    },
+    {
+        "_id": "Doppelbock",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.9293981481481484"
+    },
+    {
+        "_id": "Belgian IPA",
+        "max_overall": "4.5",
+        "min_overall": "2.5",
+        "avg_overall": "3.926470588235294"
+    },
+    {
+        "_id": "Scotch Ale / Wee Heavy",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.917929292929293"
+    },
+    {
+        "_id": "Black & Tan",
+        "max_overall": "5.0",
+        "min_overall": "2.5",
+        "avg_overall": "3.909448818897638"
+    },
+    {
+        "_id": "Old Ale",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.8895184135977336"
+    },
+    {
+        "_id": "American Barleywine",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.886060606060606"
+    },
+    {
+        "_id": "American Black Ale",
+        "max_overall": "4.5",
+        "min_overall": "1.5",
+        "avg_overall": "3.882911392405063"
+    },
+    {
+        "_id": "Wheatwine",
+        "max_overall": "5.0",
+        "min_overall": "1.5",
+        "avg_overall": "3.88021978021978"
+    },
+    {
+        "_id": "American Double / Imperial IPA",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.875275590551181"
+    },
+    {
+        "_id": "Scottish Gruit / Ancient Herbed Ale",
+        "max_overall": "5.0",
+        "min_overall": "2.5",
+        "avg_overall": "3.8692307692307693"
+    },
+    {
+        "_id": "Extra Special / Strong Bitter (ESB)",
+        "max_overall": "5.0",
+        "min_overall": "1.5",
+        "avg_overall": "3.869209809264305"
+    },
+    {
+        "_id": "Rauchbier",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.8518518518518516"
+    },
+    {
+        "_id": "Kölsch",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.845360824742268"
+    },
+    {
+        "_id": "Milk / Sweet Stout",
+        "max_overall": "5.0",
+        "min_overall": "2.0",
+        "avg_overall": "3.835526315789474"
+    },
+    {
+        "_id": "Bière de Garde",
+        "max_overall": "5.0",
+        "min_overall": "3.0",
+        "avg_overall": "3.8333333333333335"
+    },
+    {
+        "_id": "Oatmeal Stout",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.8153846153846156"
+    },
+    {
+        "_id": "Berliner Weissbier",
+        "max_overall": "4.5",
+        "min_overall": "3.0",
+        "avg_overall": "3.8"
+    },
+    {
+        "_id": "Schwarzbier",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.7928571428571427"
+    },
+    {
+        "_id": "Belgian Pale Ale",
+        "max_overall": "5.0",
+        "min_overall": "2.0",
+        "avg_overall": "3.7865853658536586"
+    },
+    {
+        "_id": "Flanders Oud Bruin",
+        "max_overall": "4.5",
+        "min_overall": "2.5",
+        "avg_overall": "3.7857142857142856"
+    },
+    {
+        "_id": "American Pale Ale (APA)",
+        "max_overall": "5.0",
+        "min_overall": "0.0",
+        "avg_overall": "3.7836538461538463"
+    },
+    {
+        "_id": "Dubbel",
+        "max_overall": "4.5",
+        "min_overall": "2.5",
+        "avg_overall": "3.7831858407079646"
+    },
+    {
+        "_id": "Saison / Farmhouse Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.5",
+        "avg_overall": "3.7818181818181817"
+    },
+    {
+        "_id": "Czech Pilsener",
+        "max_overall": "4.5",
+        "min_overall": "0.0",
+        "avg_overall": "3.7792587776332898"
+    },
+    {
+        "_id": "American Stout",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.778603268945022"
+    },
+    {
+        "_id": "Munich Dunkel Lager",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.776536312849162"
+    },
+    {
+        "_id": "Hefeweizen",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.769230769230769"
+    },
+    {
+        "_id": "American Brown Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.7676630434782608"
+    },
+    {
+        "_id": "Pumpkin Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.7599653379549394"
+    },
+    {
+        "_id": "Märzen / Oktoberfest",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.7450331125827816"
+    },
+    {
+        "_id": "Scottish Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.742857142857143"
+    },
+    {
+        "_id": "English Brown Ale",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.735632183908046"
+    },
+    {
+        "_id": "English Porter",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.732804232804233"
+    },
+    {
+        "_id": "Euro Dark Lager",
+        "max_overall": "4.5",
+        "min_overall": "1.5",
+        "avg_overall": "3.728187919463087"
+    },
+    {
+        "_id": "Maibock / Helles Bock",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.7215447154471546"
+    },
+    {
+        "_id": "Belgian Strong Dark Ale",
+        "max_overall": "4.0",
+        "min_overall": "2.0",
+        "avg_overall": "3.7142857142857144"
+    },
+    {
+        "_id": "English Strong Ale",
+        "max_overall": "4.5",
+        "min_overall": "1.5",
+        "avg_overall": "3.707317073170732"
+    },
+    {
+        "_id": "Lambic - Fruit",
+        "max_overall": "4.0",
+        "min_overall": "2.5",
+        "avg_overall": "3.6956521739130435"
+    },
+    {
+        "_id": "English Bitter",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.692182410423453"
+    },
+    {
+        "_id": "Dunkelweizen",
+        "max_overall": "4.5",
+        "min_overall": "2.0",
+        "avg_overall": "3.6882352941176473"
+    },
+    {
+        "_id": "Braggot",
+        "max_overall": "5.0",
+        "min_overall": "2.0",
+        "avg_overall": "3.673076923076923"
+    },
+    {
+        "_id": "Tripel",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.672248803827751"
+    },
+    {
+        "_id": "English Pale Mild Ale",
+        "max_overall": "4.5",
+        "min_overall": "2.0",
+        "avg_overall": "3.661290322580645"
+    },
+    {
+        "_id": "Irish Dry Stout",
+        "max_overall": "5.0",
+        "min_overall": "0.0",
+        "avg_overall": "3.65234375"
+    },
+    {
+        "_id": "American Double / Imperial Pilsner",
+        "max_overall": "5.0",
+        "min_overall": "3.0",
+        "avg_overall": "3.625"
+    },
+    {
+        "_id": "Dortmunder / Export Lager",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.621212121212121"
+    },
+    {
+        "_id": "Vienna Lager",
+        "max_overall": "4.0",
+        "min_overall": "2.0",
+        "avg_overall": "3.6052631578947367"
+    },
+    {
+        "_id": "English Pale Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.604354354354354"
+    },
+    {
+        "_id": "American Amber / Red Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.5847029077117574"
+    },
+    {
+        "_id": "American Amber / Red Lager",
+        "max_overall": "4.5",
+        "min_overall": "1.5",
+        "avg_overall": "3.5784313725490198"
+    },
+    {
+        "_id": "Winter Warmer",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.578014184397163"
+    },
+    {
+        "_id": "Flanders Red Ale",
+        "max_overall": "5.0",
+        "min_overall": "2.5",
+        "avg_overall": "3.576923076923077"
+    },
+    {
+        "_id": "Witbier",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.5755208333333335"
+    },
+    {
+        "_id": "Altbier",
+        "max_overall": "5.0",
+        "min_overall": "1.5",
+        "avg_overall": "3.574712643678161"
+    },
+    {
+        "_id": "Fruit / Vegetable Beer",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.5707142857142857"
+    },
+    {
+        "_id": "Eisbock",
+        "max_overall": "4.0",
+        "min_overall": "3.0",
+        "avg_overall": "3.5625"
+    },
+    {
+        "_id": "German Pilsener",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.55"
+    },
+    {
+        "_id": "English Stout",
+        "max_overall": "4.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.541044776119403"
+    },
+    {
+        "_id": "English India Pale Ale (IPA)",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.5307692307692307"
+    },
+    {
+        "_id": "American Pale Wheat Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.523076923076923"
+    },
+    {
+        "_id": "Herbed / Spiced Beer",
+        "max_overall": "3.5",
+        "min_overall": "2.0",
+        "avg_overall": "3.5098039215686274"
+    },
+    {
+        "_id": "Japanese Rice Lager",
+        "max_overall": "2.5",
+        "min_overall": "3.5",
+        "avg_overall": "3.5"
+    },
+    {
+        "_id": "Weizenbock",
+        "max_overall": "5.0",
+        "min_overall": "1.5",
+        "avg_overall": "3.5"
+    },
+    {
+        "_id": "Lambic - Unblended",
+        "max_overall": "5.0",
+        "min_overall": "2.0",
+        "avg_overall": "3.5"
+    },
+    {
+        "_id": "American Strong Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.4940828402366866"
+    },
+    {
+        "_id": "American Pale Lager",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.4154411764705883"
+    },
+    {
+        "_id": "Quadrupel (Quad)",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.399159663865546"
+    },
+    {
+        "_id": "American Blonde Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.37708830548926"
+    },
+    {
+        "_id": "California Common / Steam Beer",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.375"
+    },
+    {
+        "_id": "Foreign / Export Stout",
+        "max_overall": "4.5",
+        "min_overall": "1.5",
+        "avg_overall": "3.3660714285714284"
+    },
+    {
+        "_id": "Belgian Dark Ale",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.294943820224719"
+    },
+    {
+        "_id": "Smoked Beer",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.2746478873239435"
+    },
+    {
+        "_id": "Bock",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.2484662576687118"
+    },
+    {
+        "_id": "Cream Ale",
+        "max_overall": "3.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.241758241758242"
+    },
+    {
+        "_id": "American Dark Wheat Ale",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.1739130434782608"
+    },
+    {
+        "_id": "American Adjunct Lager",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.1673306772908365"
+    },
+    {
+        "_id": "Euro Pale Lager",
+        "max_overall": "5.0",
+        "min_overall": "1.0",
+        "avg_overall": "3.1581491712707184"
+    },
+    {
+        "_id": "Irish Red Ale",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "3.122549019607843"
+    },
+    {
+        "_id": "Euro Strong Lager",
+        "max_overall": "2.5",
+        "min_overall": "1.0",
+        "avg_overall": "2.940909090909091"
+    },
+    {
+        "_id": "Kristalweizen",
+        "max_overall": "4.0",
+        "min_overall": "1.5",
+        "avg_overall": "2.9375"
+    },
+    {
+        "_id": "Low Alcohol Beer",
+        "max_overall": "3.0",
+        "min_overall": "2.0",
+        "avg_overall": "2.9285714285714284"
+    },
+    {
+        "_id": "Light Lager",
+        "max_overall": "4.5",
+        "min_overall": "1.0",
+        "avg_overall": "2.735643564356436"
+    },
+    {
+        "_id": "American Malt Liquor",
+        "max_overall": "4.0",
+        "min_overall": "1.0",
+        "avg_overall": "2.4555555555555557"
+    },
+    {
+        "_id": "Kvass",
+        "max_overall": "4.0",
+        "min_overall": "3.0",
+        "avg_overall": "None"
+    }
+]
