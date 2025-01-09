@@ -1,0 +1,27 @@
+[
+    {
+        "name": "nice grapes",
+        "price": 179.22,
+        "fromCity": "Пласенсия"
+    },
+    {
+        "name": "tasteful plum",
+        "price": 95.15,
+        "fromCity": "Бургос"
+    },
+    {
+        "name": "gorgeous kiwifruit",
+        "price": 74.45,
+        "fromCity": "Картахена"
+    },
+    {
+        "name": "pleasant blackberry",
+        "price": 77.42,
+        "fromCity": "Кордова"
+    },
+    {
+        "name": "marvelous plum",
+        "price": 80.31,
+        "fromCity": "Эль-Пуэрто-де-Санта-Мария"
+    }
+]
