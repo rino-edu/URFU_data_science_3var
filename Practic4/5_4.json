@@ -1,0 +1,338 @@
+[
+    {
+        "brewery_name": "Brauerei Pinkus Mueller",
+        "beer_name": "Organic Hefe-Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.1
+    },
+    {
+        "brewery_name": "Cambridge Brewing Company",
+        "beer_name": "Dunkles Weizen",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 5.6
+    },
+    {
+        "brewery_name": "Cambridge Brewing Company",
+        "beer_name": "Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 6.0
+    },
+    {
+        "brewery_name": "Stoudts Brewing Co.",
+        "beer_name": "Stoudt's Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.9
+    },
+    {
+        "brewery_name": "Moon River Brewing Company",
+        "beer_name": "Hefe-Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.5
+    },
+    {
+        "brewery_name": "Klosterbrauerei Weltenburg",
+        "beer_name": "Weltenburger Hefe-Weissbier Hell",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.4
+    },
+    {
+        "brewery_name": "Fujian Yanjing Huiquan Brewery Co., Ltd.",
+        "beer_name": "Huiquan Beer",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.1
+    },
+    {
+        "brewery_name": "George Bateman and Son Ltd. / Batemans Brewery",
+        "beer_name": "Batemans Marie Celeste",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.6
+    },
+    {
+        "brewery_name": "Stadtbrauerei Spalt",
+        "beer_name": "Spalter Weisse",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.9
+    },
+    {
+        "brewery_name": "Klosterbrauerei Weltenburg",
+        "beer_name": "Weltenburger Hefe-Weissbier Dunkel",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 5.3
+    },
+    {
+        "brewery_name": "Anacapa Brewing Company",
+        "beer_name": "Hurricane Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Streets Of New York / Uptown Brewery",
+        "beer_name": "Bavarian Hefe-Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.5
+    },
+    {
+        "brewery_name": "The Vermont Pub & Brewery",
+        "beer_name": "Beetlejuice Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 6.4
+    },
+    {
+        "brewery_name": "Port Brewing Company / Pizza Port",
+        "beer_name": "Hot Spots Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.5
+    },
+    {
+        "brewery_name": "Jupiter",
+        "beer_name": "Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "The Cowboy Restaurant & Brewery",
+        "beer_name": "The Cowboy Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.2
+    },
+    {
+        "brewery_name": "Port Brewing Company / Pizza Port",
+        "beer_name": "Smokey The Rye Beer",
+        "beer_style": "Weizenbock",
+        "beer_abv": 7.5
+    },
+    {
+        "brewery_name": "Okhotsk Brewery Inc.",
+        "beer_name": "Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.1
+    },
+    {
+        "brewery_name": "San Francisco Brewing Company",
+        "beer_name": "Dopple Weizen",
+        "beer_style": "Weizenbock",
+        "beer_abv": 6.0
+    },
+    {
+        "brewery_name": "Schorschbräu",
+        "beer_name": "Schorschbräu Donner Weizen",
+        "beer_style": "Weizenbock",
+        "beer_abv": 13.0
+    },
+    {
+        "brewery_name": "Bakushukan Clair (Kure Beer)",
+        "beer_name": "Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Yazoo Brewing Company",
+        "beer_name": "Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Micro-Brasserie Brouemont",
+        "beer_name": "Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.6
+    },
+    {
+        "brewery_name": "Staffelberg Bräu Fam. Geldner-Wehritz",
+        "beer_name": "Hefe Weißbier",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.2
+    },
+    {
+        "brewery_name": "Trafalgar Ales & Meads",
+        "beer_name": "Granary Wheat Premium Ale",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.5
+    },
+    {
+        "brewery_name": "Moon River Brewing Company",
+        "beer_name": "Wheezy Heifer",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.5
+    },
+    {
+        "brewery_name": "Founders Brewing Company",
+        "beer_name": "Founders Black Sunshine",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 5.6
+    },
+    {
+        "brewery_name": "Trafalgar Ales & Meads",
+        "beer_name": "White Oak Weissbier",
+        "beer_style": "Kristalweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Port Brewing Company / Pizza Port",
+        "beer_name": "None The Weisser",
+        "beer_style": "Weizenbock",
+        "beer_abv": 8.3
+    },
+    {
+        "brewery_name": "Hog Haus Brewing Company",
+        "beer_name": "Woodstock Wheat",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.5
+    },
+    {
+        "brewery_name": "Hoppin' Frog Brewery",
+        "beer_name": "Wild Frog Wheat Ale",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 6.0
+    },
+    {
+        "brewery_name": "Privatbrauerei Hösl",
+        "beer_name": "Helles Weissbier Resi",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Taps Brewing Co. Inc.",
+        "beer_name": "Taps Vanilla Wheat",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.2
+    },
+    {
+        "brewery_name": "Bluegrass Brewing Co. - East St. Matthew's",
+        "beer_name": "Weizenbock",
+        "beer_style": "Weizenbock",
+        "beer_abv": 7.1
+    },
+    {
+        "brewery_name": "Bluegrass Brewing Co. - East St. Matthew's",
+        "beer_name": "Drunkelweizen",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Stoudts Brewing Co.",
+        "beer_name": "Stoudts Heifer-in-Wheat",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Brasserie Dunham",
+        "beer_name": "Blanche De Dunham",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.2
+    },
+    {
+        "brewery_name": "Stoudts Brewing Co.",
+        "beer_name": "PA Dutch Dunkel Brewers Reserve",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Sierra Nevada Brewing Co.",
+        "beer_name": "Weizenbock - Beer Camp #37",
+        "beer_style": "Weizenbock",
+        "beer_abv": 6.6
+    },
+    {
+        "brewery_name": "Vecchio Birraio",
+        "beer_name": "Sausa Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Sierra Nevada Brewing Co.",
+        "beer_name": "Sierra Nevada Kellerweis Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.8
+    },
+    {
+        "brewery_name": "Kirkland Signature / Costco Wholesale Corporation",
+        "beer_name": "Kirkland Signature Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.5
+    },
+    {
+        "brewery_name": "River Horse Brewing Co.",
+        "beer_name": "Honey Weizen Bock",
+        "beer_style": "Weizenbock",
+        "beer_abv": 8.0
+    },
+    {
+        "brewery_name": "Green Man Brewery",
+        "beer_name": "Wheat",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.2
+    },
+    {
+        "brewery_name": "The Stable",
+        "beer_name": "Amalgamated Dunkel",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 5.2
+    },
+    {
+        "brewery_name": "Harmon Restaurant & Brewery",
+        "beer_name": "Delightful Dark Wheat",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 5.7
+    },
+    {
+        "brewery_name": "Privatbrauerei Hösl",
+        "beer_name": "Whiskey Weisse",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.6
+    },
+    {
+        "brewery_name": "Cannon Brew Pub",
+        "beer_name": "Dillingham Dunkel",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 4.5
+    },
+    {
+        "brewery_name": "Browar Okocim S.A. (Carlsberg)",
+        "beer_name": "Pszeniczne",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Craggie Brewing Company",
+        "beer_name": "Brewer's Reserve Series: Dunkelweiss",
+        "beer_style": "Dunkelweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Growler Craft Brewery",
+        "beer_name": "Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Port Brewing Company / Pizza Port",
+        "beer_name": "Flying Hawaiin Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 6.5
+    },
+    {
+        "brewery_name": "Brauerei Aldersbach",
+        "beer_name": "Aldersbacher Kloster Weisse Hell",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.5
+    },
+    {
+        "brewery_name": "Schorschbräu",
+        "beer_name": "Schorsch Weizen 16%",
+        "beer_style": "Weizenbock",
+        "beer_abv": 16.0
+    },
+    {
+        "brewery_name": "Haymarket Pub & Brewery",
+        "beer_name": "Banana Hammock Hefeweizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 5.0
+    },
+    {
+        "brewery_name": "Broad Ripple Brew Pub",
+        "beer_name": "Hefe Weizen",
+        "beer_style": "Hefeweizen",
+        "beer_abv": 4.5
+    }
+]

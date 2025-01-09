@@ -1,0 +1,454 @@
+[
+    {
+        "brewery_name": "Abbey Bells Brewery",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Accra Brewery Limited",
+        "avg_brewery_rating": 2.7857142857142856
+    },
+    {
+        "brewery_name": "Al Ahram Beverages Company",
+        "avg_brewery_rating": 2.83
+    },
+    {
+        "brewery_name": "Amstar",
+        "avg_brewery_rating": 2.4375
+    },
+    {
+        "brewery_name": "Amstel Brouwerij B. V.",
+        "avg_brewery_rating": 2.7885964912280703
+    },
+    {
+        "brewery_name": "Bayerische Brauerei Kaiserslautern",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Big Hurt Brewing Company",
+        "avg_brewery_rating": 3.125
+    },
+    {
+        "brewery_name": "Birrificio F.lli Trami",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Birrificio Indipendente Elav",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Black Tooth Brewing Company",
+        "avg_brewery_rating": 3.25
+    },
+    {
+        "brewery_name": "Bootleggers Restaurant & Brewery",
+        "avg_brewery_rating": 2.25
+    },
+    {
+        "brewery_name": "Brasserie Artisanale De La Divatte",
+        "avg_brewery_rating": 3.0833333333333335
+    },
+    {
+        "brewery_name": "Brasserie Britt de Bretagne",
+        "avg_brewery_rating": 3.414285714285714
+    },
+    {
+        "brewery_name": "Brasserie Nationale (Bofferding)",
+        "avg_brewery_rating": 2.0
+    },
+    {
+        "brewery_name": "Brasserie d'Algiers",
+        "avg_brewery_rating": 2.5
+    },
+    {
+        "brewery_name": "Brasseurs Savoyards",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Brauerei An Der Thomaskirche",
+        "avg_brewery_rating": 3.3333333333333335
+    },
+    {
+        "brewery_name": "Brauerei Forst AG",
+        "avg_brewery_rating": 3.351063829787234
+    },
+    {
+        "brewery_name": "Brouwerij Martens NV",
+        "avg_brewery_rating": 2.779527559055118
+    },
+    {
+        "brewery_name": "Browar Kiper",
+        "avg_brewery_rating": 3.189655172413793
+    },
+    {
+        "brewery_name": "Browar Staropolski",
+        "avg_brewery_rating": 3.3035714285714284
+    },
+    {
+        "brewery_name": "Browerij Nacional Balashi",
+        "avg_brewery_rating": 3.3076923076923075
+    },
+    {
+        "brewery_name": "Cheers Tavern",
+        "avg_brewery_rating": 2.875
+    },
+    {
+        "brewery_name": "City Grille and Brewhaus",
+        "avg_brewery_rating": 3.2142857142857144
+    },
+    {
+        "brewery_name": "Coastal Extreme Brewing Co.",
+        "avg_brewery_rating": 2.5
+    },
+    {
+        "brewery_name": "Consorcio Cervecero De Baja California ( La Taberna TJ )",
+        "avg_brewery_rating": 3.3421052631578947
+    },
+    {
+        "brewery_name": "Conwy Brewery Ltd",
+        "avg_brewery_rating": 3.388888888888889
+    },
+    {
+        "brewery_name": "Coors Brewers Ltd",
+        "avg_brewery_rating": 2.59375
+    },
+    {
+        "brewery_name": "Copper Crow Brewing Company",
+        "avg_brewery_rating": 3.1666666666666665
+    },
+    {
+        "brewery_name": "DUFF Sales & Marketing E.K.",
+        "avg_brewery_rating": 2.642857142857143
+    },
+    {
+        "brewery_name": "Desert Edge Brewery",
+        "avg_brewery_rating": 3.3524590163934427
+    },
+    {
+        "brewery_name": "Dostal Alley Brewpub",
+        "avg_brewery_rating": 2.9583333333333335
+    },
+    {
+        "brewery_name": "Drei Kronen 1308 Brauhaus",
+        "avg_brewery_rating": 3.25
+    },
+    {
+        "brewery_name": "Eastwood The Brewer (John Eastwood)",
+        "avg_brewery_rating": 1.5
+    },
+    {
+        "brewery_name": "Florida Beer Company",
+        "avg_brewery_rating": 2.0
+    },
+    {
+        "brewery_name": "Flying Fish Brewing Company",
+        "avg_brewery_rating": 3.25
+    },
+    {
+        "brewery_name": "Formosa Brewing Co.",
+        "avg_brewery_rating": 2.9
+    },
+    {
+        "brewery_name": "Great Sex Brewing, Inc.",
+        "avg_brewery_rating": 1.9166666666666667
+    },
+    {
+        "brewery_name": "Harar Beer Factory",
+        "avg_brewery_rating": 3.4074074074074074
+    },
+    {
+        "brewery_name": "Harboes Bryggeri A/S",
+        "avg_brewery_rating": 2.6724137931034484
+    },
+    {
+        "brewery_name": "Harrison's Brewery and Restaurant",
+        "avg_brewery_rating": 3.173076923076923
+    },
+    {
+        "brewery_name": "Heineken Nederland B.V.",
+        "avg_brewery_rating": 2.8076923076923075
+    },
+    {
+        "brewery_name": "Hijos De Rivera, S.A.",
+        "avg_brewery_rating": 2.935
+    },
+    {
+        "brewery_name": "Hokusetsu Brewery",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Industrial Cervecera S.A. / Compañía Cervecera De Nicaragua",
+        "avg_brewery_rating": 3.0946969696969697
+    },
+    {
+        "brewery_name": "Inertia Industries Ltd.",
+        "avg_brewery_rating": 3.4
+    },
+    {
+        "brewery_name": "Inlet Brewing Co.",
+        "avg_brewery_rating": 3.3815789473684212
+    },
+    {
+        "brewery_name": "Island Cafe & Brew Pub",
+        "avg_brewery_rating": 3.2857142857142856
+    },
+    {
+        "brewery_name": "Joseph James Brewing Inc.",
+        "avg_brewery_rating": 3.247967479674797
+    },
+    {
+        "brewery_name": "Kirkland Signature / Costco Wholesale Corporation",
+        "avg_brewery_rating": 3.2838827838827838
+    },
+    {
+        "brewery_name": "Kolos OAO/ Ledyanoy Stakanchik",
+        "avg_brewery_rating": 2.9444444444444446
+    },
+    {
+        "brewery_name": "Kompania Piwowarska",
+        "avg_brewery_rating": 3.2045454545454546
+    },
+    {
+        "brewery_name": "Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts)",
+        "avg_brewery_rating": 2.7162162162162162
+    },
+    {
+        "brewery_name": "Livu Alus",
+        "avg_brewery_rating": 2.9375
+    },
+    {
+        "brewery_name": "Marco Island Brewery",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Mariposa Brewing Company",
+        "avg_brewery_rating": 2.6666666666666665
+    },
+    {
+        "brewery_name": "Matso's Broome Brewery",
+        "avg_brewery_rating": 2.875
+    },
+    {
+        "brewery_name": "Naturbier",
+        "avg_brewery_rating": 3.2857142857142856
+    },
+    {
+        "brewery_name": "Newby Wyke Brewery",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "O'Griff's Irish Pub & Brewhouse",
+        "avg_brewery_rating": 3.45
+    },
+    {
+        "brewery_name": "Okhotsk Brewery Inc.",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Olympic Brewery S.A.",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Otro Mundo Brewing Company",
+        "avg_brewery_rating": 3.2
+    },
+    {
+        "brewery_name": "Pacific Coast Brewing Company",
+        "avg_brewery_rating": 3.369047619047619
+    },
+    {
+        "brewery_name": "Piniavos Alutis",
+        "avg_brewery_rating": 2.5
+    },
+    {
+        "brewery_name": "Pivovar Ferdinand / Pivovar Beneov",
+        "avg_brewery_rating": 3.357142857142857
+    },
+    {
+        "brewery_name": "Pivovar Nymburk, spol. s r.o.",
+        "avg_brewery_rating": 3.3
+    },
+    {
+        "brewery_name": "Pivovaren Zavod Varensko Pivo",
+        "avg_brewery_rating": 2.75
+    },
+    {
+        "brewery_name": "Pivovarna Laško",
+        "avg_brewery_rating": 3.1941747572815533
+    },
+    {
+        "brewery_name": "Rheingold Brewing Co.",
+        "avg_brewery_rating": 2.9716981132075473
+    },
+    {
+        "brewery_name": "Rinkuškiai Alaus Darykloje",
+        "avg_brewery_rating": 2.8732394366197185
+    },
+    {
+        "brewery_name": "Riverside Brewing Company",
+        "avg_brewery_rating": 2.8823529411764706
+    },
+    {
+        "brewery_name": "Royal Unibrew A/S",
+        "avg_brewery_rating": 1.0
+    },
+    {
+        "brewery_name": "Rustic Rail Grill And Brewhouse",
+        "avg_brewery_rating": 2.8333333333333335
+    },
+    {
+        "brewery_name": "SBC Restaurant & Brewery - Hamden",
+        "avg_brewery_rating": 3.388888888888889
+    },
+    {
+        "brewery_name": "SBC Restaurant & Brewery - Milford",
+        "avg_brewery_rating": 3.3461538461538463
+    },
+    {
+        "brewery_name": "Saint Ides Brewing Company",
+        "avg_brewery_rating": 2.391025641025641
+    },
+    {
+        "brewery_name": "San Francisco Brewing Company",
+        "avg_brewery_rating": 3.2111111111111112
+    },
+    {
+        "brewery_name": "Sauris AgriBeer S.a.s",
+        "avg_brewery_rating": 3.1
+    },
+    {
+        "brewery_name": "Scarampola",
+        "avg_brewery_rating": 2.75
+    },
+    {
+        "brewery_name": "Schorschbräu",
+        "avg_brewery_rating": 3.411764705882353
+    },
+    {
+        "brewery_name": "Scottish Chief's Tavern Brewery",
+        "avg_brewery_rating": 3.3333333333333335
+    },
+    {
+        "brewery_name": "Seven Brides Brewing",
+        "avg_brewery_rating": 3.2976190476190474
+    },
+    {
+        "brewery_name": "Små Vesen Bryggeri",
+        "avg_brewery_rating": 1.5
+    },
+    {
+        "brewery_name": "Solvang Brewing Company",
+        "avg_brewery_rating": 2.1666666666666665
+    },
+    {
+        "brewery_name": "Sonnenbräu AG",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "South African Breweries plc",
+        "avg_brewery_rating": 2.5
+    },
+    {
+        "brewery_name": "Spanish Springs Brewing Company",
+        "avg_brewery_rating": 3.4642857142857144
+    },
+    {
+        "brewery_name": "Speciaalbierbrouwerij Oijen",
+        "avg_brewery_rating": 3.4166666666666665
+    },
+    {
+        "brewery_name": "Stakhanovitz",
+        "avg_brewery_rating": 2.5833333333333335
+    },
+    {
+        "brewery_name": "Steelback Brewery",
+        "avg_brewery_rating": 2.0324675324675323
+    },
+    {
+        "brewery_name": "Sternquell Brauerei Plauen",
+        "avg_brewery_rating": 3.3333333333333335
+    },
+    {
+        "brewery_name": "Streets Of New York / Uptown Brewery",
+        "avg_brewery_rating": 3.4
+    },
+    {
+        "brewery_name": "Summit Station Restaurant & Brewery",
+        "avg_brewery_rating": 3.4473684210526314
+    },
+    {
+        "brewery_name": "Swan Brewery",
+        "avg_brewery_rating": 2.5869565217391304
+    },
+    {
+        "brewery_name": "Taybeh Brewing Co.",
+        "avg_brewery_rating": 3.3863636363636362
+    },
+    {
+        "brewery_name": "The Hartford Better Beer Co.",
+        "avg_brewery_rating": 3.3846153846153846
+    },
+    {
+        "brewery_name": "The Two Metre Tall Company Pty Ltd",
+        "avg_brewery_rating": 2.828125
+    },
+    {
+        "brewery_name": "Third Base Sports Bar & Brewery",
+        "avg_brewery_rating": 3.4565217391304346
+    },
+    {
+        "brewery_name": "Tied House Cafe & Brewery",
+        "avg_brewery_rating": 3.1206896551724137
+    },
+    {
+        "brewery_name": "Trafalgar Ales & Meads",
+        "avg_brewery_rating": 2.8559907834101383
+    },
+    {
+        "brewery_name": "Ufford Ales Ltd.",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Van Der Bönerbosch Brewing Company, LLC",
+        "avg_brewery_rating": 2.75
+    },
+    {
+        "brewery_name": "Vecchio Birraio",
+        "avg_brewery_rating": 2.625
+    },
+    {
+        "brewery_name": "Voronezhsky Brewery",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Wapping Beers Ltd.",
+        "avg_brewery_rating": 3.125
+    },
+    {
+        "brewery_name": "Wasatch Brew Pub",
+        "avg_brewery_rating": 3.4563758389261743
+    },
+    {
+        "brewery_name": "Wellington's Backwater Brewing Co.",
+        "avg_brewery_rating": 3.1315789473684212
+    },
+    {
+        "brewery_name": "William K Busch Brewing Company",
+        "avg_brewery_rating": 3.25
+    },
+    {
+        "brewery_name": "Wm. Kuether Brewing",
+        "avg_brewery_rating": 2.125
+    },
+    {
+        "brewery_name": "Yellow Rose Brewing Company",
+        "avg_brewery_rating": 3.1625
+    },
+    {
+        "brewery_name": "Zak&#322;ady Piwowarskie w Le&#380;ajsku S.A.",
+        "avg_brewery_rating": 3.0
+    },
+    {
+        "brewery_name": "Ölgerð Reykjavíkur",
+        "avg_brewery_rating": 2.5
+    }
+]
